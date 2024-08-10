@@ -1,1 +1,1 @@
-Docker Compose file to deploy Grocy as grocery shopping application.
+Docker Compose file to deploy Grocy a grocery shopping application.
