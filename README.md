@@ -1,1 +1,1 @@
-Docker Compose file to deploy Grocy a grocery shopping application.
+This is a easy to deploy docker compose file that will spin up a the Grocy Grocery shopping application. Spin it up as a stack in Portainer or deploy using your favorite linux distribution using docker.
